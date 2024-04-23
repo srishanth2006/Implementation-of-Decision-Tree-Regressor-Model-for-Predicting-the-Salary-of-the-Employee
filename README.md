@@ -70,7 +70,7 @@ plt.show()
 ![Screenshot 2024-04-23 090511](https://github.com/srishanth2006/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/150319470/abffab69-c913-4c94-a7e2-44aebf000de6)
 
 ## DATA PREDICTION & DECISION TREE REGRESSOR FOR PREDICTING THE SALARY OF THE EMPLOYEE:
-![image](https://github.com/Prasannalakshmiganesan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118610231/92b71892-3ff3-49db-9864-69ef5271d8fa)
+![Screenshot 2024-04-23 090539](https://github.com/srishanth2006/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/150319470/9bcd300b-9708-4f27-9f20-aa4b98d17d3c)
 
 
 ## Result:
